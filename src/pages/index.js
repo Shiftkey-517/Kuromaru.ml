@@ -11,12 +11,12 @@ function HomepageHeader() {
   return (
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
-        <h1 className="hero__title">ここにロゴ</h1>
-        <p className="hero__subtitle">Minecraft Java Edition と Bedrock Edition とのクロスマルチプレイに対応したMinecraftサーバー。</p>
+        <h1 className="hero__title">Kuromaru.ml</h1>
+        <p className="hero__subtitle">Minecraft Java Edition と Bedrock Edition とのクロスマルチプレイに対応したMinecraftサバイバルサーバー</p>
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="/docs/intro">
+            to="/docs/join">
             サーバーに参加する
           </Link>
         </div>
@@ -29,9 +29,9 @@ export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
-      <HomepageHeader />
+      title={``}
+      description="Minecraft Java Edition / Bedrock Edition でのクロスマルチプレイに対応したMinecraftサーバー、くろまるの公式ホームページです。">
+      　<HomepageHeader />
       <main>
         <HomepageFeatures />
       </main>

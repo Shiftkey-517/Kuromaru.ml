@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # くろまるサーバーへようこそ！
 
-Let's discover **Docusaurus in less than 5 minutes**.
+ここには、サーバーに関することが全て書かれています
 
 ## Getting Started
 
