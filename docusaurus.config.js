@@ -10,7 +10,8 @@ const config = {
   tagline: 'kuromaru.ml',
   url: 'https://www.kuromaru.ml',
   baseUrl: '/',
-  onBrokenLinks: 'warn',
+  onBrokenLinks: 'warn', //throw
+
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'Kuromaru.ml', // Usually your GitHub org/user name.
