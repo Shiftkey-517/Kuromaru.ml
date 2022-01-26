@@ -11,6 +11,7 @@ const config = {
   url: 'https://www.kuromaru.ml',
   baseUrl: '/',
   onBrokenLinks: 'warn', //throw
+
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'Kuromaru.ml', // Usually your GitHub org/user name.
