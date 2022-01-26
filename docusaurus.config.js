@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'くろまるサーバー - Kuromaru.ml',
-  tagline: 'Dinosaurs are cool',
+  tagline: 'kuromaru.ml',
   url: 'https://www.kuromaru.ml',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -24,13 +24,13 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          editUrl: 'https://github.com/kanji1113/Kuromaru.ml/tree/main/packages/create-docusaurus/templates/shared/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/kanji1113/Kuromaru.ml/tree/main/packages/create-docusaurus/templates/shared/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -43,10 +43,10 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'LOGOHERE',
+        title: 'KUROMARU',
         logo: {
           alt: 'くろまるサーバーのロゴ',
-          src: 'img/logo.svg',
+          src: 'img/kuromaru.png',
         },
         items: [
           {
@@ -57,7 +57,7 @@ const config = {
           },
           {to: '/blog', label: 'お知らせ', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/kanji1113/Kuromaru.ml',
             label: 'GitHub',
             position: 'right',
           },
@@ -67,36 +67,32 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'ドキュメント',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/index',
+                label: '参加方法',
+                to: '/docs/',
               },
             ],
           },
           {
-            title: 'Community',
+            title: 'コミニュティ',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
                 label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                href: 'https://discord.gg/3cPMXcdGKd',
               },
               {
                 label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                href: 'https://twitter.com/Server_Kuromaru',
               },
             ],
           },
           {
-            title: 'More',
+            title: 'そのほか',
             items: [
               {
-                label: 'Blog',
+                label: 'お知らせ',
                 to: '/blog',
               },
               {
@@ -106,7 +102,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Kuromaru.ml. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Kuromaru.ml.`,
       },
       prism: {
         theme: lightCodeTheme,
