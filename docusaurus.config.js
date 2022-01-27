@@ -47,21 +47,45 @@ const config = {
         title: 'KUROMARU',
         logo: {
           alt: 'くろまるサーバーのロゴ',
-          src: 'img/kuromaru.png',
+          src: 'img/logo_small_dark.png',
         },
-        items: [
+        "items": [
           {
-            type: 'doc',
-            docId: 'index',
-            position: 'left',
-            label: 'ドキュメント',
+            "type": "doc",
+            "docId": "index",
+            "position": "left",
+            "label": "ドキュメント"
           },
-          {to: '/blog', label: 'お知らせ', position: 'left'},
           {
-            href: 'https://github.com/kanji1113/Kuromaru.ml',
-            label: 'GitHub',
-            position: 'right',
+            "to": "/blog",
+            "label": "お知らせ",
+            "position": "left"
           },
+          {
+            "href": "https://discord.gg/3cPMXcdGKd",
+            "label": "Discord",
+            "position": "left"
+          },
+          {
+            "href": "https://twitter.com/Server_kuromaru",
+            "label": "Twitter",
+            "position": "left"
+          },
+          {
+            "href": "http://kuromaru.ml:8123/",
+            "label": "Dynmap",
+            "position": "left"
+          },
+          {
+            "href": "http://kuromaru.ml:8100/",
+            "label": "BlueMap",
+            "position": "left"
+          },
+          {
+            "href": "https://www.youtube.com/watch?v=FAGBC6uJxeE",
+            "label": "YouTube Live",
+            "position": "left"
+          }
         ],
       },
       footer: {
