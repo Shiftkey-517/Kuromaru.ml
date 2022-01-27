@@ -4,8 +4,8 @@ sidebar_position: 3
 
 # サーバーへの入り方
 
-サーバーへ初めて参加される前に、[サーバールール](rules)を必ずお読みください。  
-また、[公式Discordコミュニティ](https://discord.gg/3cPMXcdGKd)への参加をご検討ください。
+サーバーへ初めて参加される前に、<!--[サーバールール](rules)を必ずお読みください。  
+また、-->[公式Discordコミュニティ](https://discord.gg/3cPMXcdGKd)への参加をご検討ください。
 
 サーバーへの入り方は、お使いの端末やMinecraftのエディションによって異なります。
 
