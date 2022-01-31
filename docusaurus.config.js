@@ -114,15 +114,11 @@ const config = {
             ],
           },
           {
-            title: 'そのほか',
+            title: '関連サイトリンク',
             items: [
               {
-                label: 'お知らせ',
-                to: '/blog',
-              },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                label: '匠・新海座高速鉄道',
+                to: 'https://sites.google.com/view/tsrr/',
               },
             ],
           },
