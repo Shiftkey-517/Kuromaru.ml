@@ -1,5 +1,6 @@
-# Website
+# www.kuromaru.ml
 
+くろまるサーバーの公式ホームページ。  
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
 ### Installation
