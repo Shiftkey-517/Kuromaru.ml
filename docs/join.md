@@ -29,9 +29,9 @@ sidebar_position: 3
 ## スマホ・タブレット・Windowsの統合版マイクラ(Minecraft)から
 **サーバーへの接続には、Xbox Liveアカウントでのログインが必要です。**
 
-このページをご覧の端末から参加したい場合、下のボタン・QRコードからすぐにサーバーリストに追加できます。
+今お使いの端末から参加したい場合、下のボタン・QRコードからすぐにサーバーリストに追加できます。
 
-<a href="minecraft://?addExternalServer=くろまるサーバー|kuromaru.ml:19132"><Link className="button button--primary button--lg">くろまるをサーバーリストに追加する</Link></a>
+<a href="minecraft://?addExternalServer=くろまるサーバー|kuromaru.ml:19132"><Link className="button button--primary button--lg">サーバーリストに追加</Link></a>
 
 ![Bedrock Editionサーバーリスト追加QRコード](assets/be-join-qr.png)
 ### 手動で追加する場合
