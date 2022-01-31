@@ -134,6 +134,16 @@ const config = {
         darkTheme: darkCodeTheme,
       },
     }),
+    i18n: {
+    defaultLocale: 'ja',
+    locales: ['ja'],
+    localeConfigs: {
+      ja: {
+        label: '日本語',
+        direction: 'ltr',
+      },
+    },
+  },
 };
 
 module.exports = config;
