@@ -1,6 +1,9 @@
 # www.kuromaru.ml
 
-くろまるサーバーの公式ホームページ。  
+くろまるサーバーの公式ホームページ。
+
+develop ブランチにpullして下さい（内容の安定化・Reviewとデプロイ回数削減のため）
+
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
 ### Installation
