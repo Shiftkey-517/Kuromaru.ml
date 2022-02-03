@@ -95,13 +95,17 @@ const config = {
             title: 'ドキュメント',
             items: [
               {
+                label: 'はじめに',
+                to: '/docs',
+              },
+              {
                 label: '参加方法',
-                to: '/docs/',
+                to: '/docs/join',
               },
             ],
           },
           {
-            title: 'コミニュティ',
+            title: 'コミュニティ',
             items: [
               {
                 label: 'Discord',
@@ -116,6 +120,10 @@ const config = {
           {
             title: '関連サイトリンク',
             items: [
+              {
+                label: 'くろまるサーバー 公認Wiki',
+                to: 'https://kuromaru.game-info.wiki/',
+              },
               {
                 label: '匠・新海座高速鉄道',
                 to: 'https://sites.google.com/view/tsrr/',
