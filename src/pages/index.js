@@ -12,7 +12,7 @@ function HomepageHeader() {
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
         <h1 className="hero__title">Kuromaru.ml</h1>
-        <p className="hero__subtitle">Minecraft Java Edition と Bedrock Edition とのクロスマルチプレイに対応したMinecraftサバイバルサーバー</p>
+        <p className="hero__subtitle">どのMinecraftからでも入れる <b>クロ</b>ス<b>マル</b>チサバイバルサーバー</p>
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
