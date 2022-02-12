@@ -125,6 +125,10 @@ const config = {
                 to: 'https://kuromaru.game-info.wiki/',
               },
               {
+                label: 'STS広域連携グループ',
+                to: 'https://sites.google.com/view/kuromaru-sts/%E3%83%9B%E3%83%BC%E3%83%A0',
+              },
+              {
                 label: '匠・新海座高速鉄道',
                 to: 'https://sites.google.com/view/tsrr/',
               },
