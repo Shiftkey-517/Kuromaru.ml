@@ -132,6 +132,10 @@ const config = {
                 label: '匠・新海座高速鉄道',
                 to: 'https://sites.google.com/view/tsrr/',
               },
+              {
+                label: 'KGNN News',
+                to: 'https://kgnn-news.blogspot.com/',
+              },
             ],
           },
         ],
