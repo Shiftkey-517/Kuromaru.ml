@@ -1,5 +1,5 @@
 ---
-sidebar_position: 11
+sidebar_position: 110
 ---
 
 # /sethome - 自分専用のテレポート地点を設定する

@@ -1,5 +1,5 @@
 ---
-sidebar_position: 4
+sidebar_position: 40
 ---
 
 # /mvs - 今いるワールドのリスポーン地点に戻る

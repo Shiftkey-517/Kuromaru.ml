@@ -1,5 +1,5 @@
 ---
-sidebar_position: 14
+sidebar_position: 140
 ---
 
 # /delhome - 設定したテレポート地点を削除する

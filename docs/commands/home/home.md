@@ -1,5 +1,5 @@
 ---
-sidebar_position: 13
+sidebar_position: 130
 ---
 
 # /home - 設定したテレポート地点にテレポートする

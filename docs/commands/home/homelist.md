@@ -1,5 +1,5 @@
 ---
-sidebar_position: 12
+sidebar_position: 120
 ---
 
 # /homelist - 設定したテレポート地点の一覧を表示する
