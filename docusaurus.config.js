@@ -82,7 +82,7 @@ const config = {
             "position": "left"
           },
           {
-            "href": "https://www.youtube.com/watch?v=FAGBC6uJxeE",
+            "href": "https://youtu.be/ADFo3xxQrIg",
             "label": "YouTube Live",
             "position": "left"
           }

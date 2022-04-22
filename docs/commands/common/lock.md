@@ -1,5 +1,5 @@
 ---
-sidebar_position: 15
+sidebar_position: 150
 ---
 
 # /lock - チェスト・ドアの保護を編集する

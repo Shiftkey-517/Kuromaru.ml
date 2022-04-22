@@ -1,5 +1,5 @@
 ---
-sidebar_position: 3
+sidebar_position: 30
 ---
 
 # /mvtp - ワールドを移動する
@@ -12,6 +12,6 @@ sidebar_position: 3
 
 [移動したいワールドの名前]には、[ワールド一覧](../worlds/world)のタイトルの先頭にある半角英数字記号が入ります。  例えば、資源ワールドに移動したいときは、
 
-```/mvtp sigen```
+```/mvtp res```
 
 となります。
