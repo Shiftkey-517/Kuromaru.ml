@@ -3,9 +3,9 @@
 これから紹介するのはkuromaruサーバー内で使える主要のコマンドです
 (一部コマンドではないものを含む)
 
-テレポートコマンド一覧「」内の文章は説明です。
+## テレポートコマンド一覧
 
-## mvtp
+### mvtp
 
 :::info 大前提
 mvtpとは各ディメンション間を移動するコマンドです。
@@ -19,7 +19,7 @@ mvtpとは各ディメンション間を移動するコマンドです。
 - `/mvtp world_nether` 「ネザーのワールドです。MOBがわきます」
 - `/mvtp world_the_end` エンドのワールドです。MOBがわきます
 
-## その他tp
+### その他tp
 
 - `/mvs` world(各ワールド)の初期スポーンへTPします
 - `/mvtp world` 通常の建築ワールドへTPします(観覧車の場所)
@@ -59,9 +59,9 @@ homeコマンドとは対象の場所をhomeとして登録して、
 lockとはチェストなどに向けて看板で[private]とロックをするものある。
 :::
 
-- `/lock 行数　プレイヤーネーム` privateの看板の中に名前を追加する(more usersも同様)
-  - `[everyone]`「みんな開ける」
-  - `[timer:秒数]`「ドアなどでその秒数が立つと閉まるようにする」
+- `/lock 行数 プレイヤーネーム` privateの看板の中に名前を追加する(more usersも同様)
+  - `[everyone]` みんな開ける
+  - `[timer:秒数]` ドアなどでその秒数が立つと閉まるようにする
 
 ## dynmapマップでその場所を表示させる
 
@@ -71,20 +71,20 @@ lockとはチェストなどに向けて看板で[private]とロックをする�
 
 看板に
 
-```toml
+```
 [dynmap]
-名前　#その場所の名前
-icon:アイコン名　#下記リンクで見てください
+名前 (その場所の名前)
+icon:アイコン名 (下記リンクで見てください)
 ```
 
 を入力する
 
 ### 例
 
-```toml
+```
 [dynmap]
 ○○の家
 icon:house
 ```
 
-- icon名一覧: https://mcmminafy.wiki.fc2.com/upload_dir/m/mcmminafy/51d9182c0d6eec5e45ff39fb50a8ea61.png
+icon名一覧: https://mcmminafy.wiki.fc2.com/upload_dir/m/mcmminafy/51d9182c0d6eec5e45ff39fb50a8ea61.png
