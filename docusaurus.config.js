@@ -6,16 +6,16 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'くろまるサーバー - Kuromaru.ml',
-  tagline: 'kuromaru.ml',
-  url: 'https://www.kuromaru.ml',
+  title: 'くろまるサーバー - Kuromaru.world',
+  tagline: 'kuromaru.world',
+  url: 'https://www.kuromaru.world',
   baseUrl: '/',
   onBrokenLinks: 'warn', //throw
 
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'Kuromaru.ml', // Usually your GitHub org/user name.
-  projectName: 'Kuromaru.ml', // Usually your repo name.
+  organizationName: 'Kuromaru.world', // Usually your GitHub org/user name.
+  projectName: 'Kuromaru.world', // Usually your repo name.
 
   presets: [
     [
@@ -72,17 +72,17 @@ const config = {
             "position": "left"
           },
           {
-            "href": "http://kuromaru.ml:8123/",
+            "href": "http://kuromaru.world:8123/",
             "label": "Dynmap",
             "position": "left"
           },
           {
-            "href": "http://kuromaru.ml:8100/",
+            "href": "http://kuromaru.world:8100/",
             "label": "BlueMap",
             "position": "left"
           },
           {
-            "href": "https://www.youtube.com/watch?v=GHC1wtTcr9s",
+            "href": "https://youtu.be/uVHKLCdLGB8",
             "label": "YouTube Live",
             "position": "left"
           }
@@ -135,7 +135,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Kuromaru.ml.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Kuromaru.world.`,
       },
       prism: {
         theme: lightCodeTheme,

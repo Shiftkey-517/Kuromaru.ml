@@ -21,7 +21,7 @@ sidebar_position: 3
 2. 「サーバーを追加」を選択します。
 
 3. >サーバー名：くろまるサーバー(自由に設定可能)  
-   >サーバーアドレス：kuromaru.ml
+   >サーバーアドレス：kuromaru.world
 
    と入力して、「完了」を選択します。
 
@@ -30,7 +30,7 @@ sidebar_position: 3
 
 今お使いの端末から参加したい場合、下のボタン・QRコードからすぐにサーバーリストに追加できます。
 
-<a href="minecraft://?addExternalServer=くろまるサーバー|kuromaru.ml:19132"><Link className="button button--primary button--lg">サーバーリストに追加</Link></a>
+<a href="minecraft://?addExternalServer=くろまるサーバー|kuromaru.world:19132"><Link className="button button--primary button--lg">サーバーリストに追加</Link></a>
 
 ![Bedrock Editionサーバーリスト追加QRコード](assets/be-join-qr.png)
 ### 手動で追加する場合
@@ -40,7 +40,7 @@ sidebar_position: 3
 2. 画面上部のタブから「サーバー」を選択して、表示されるサーバーリストの最下部にある「サーバーを追加」を選択します。
 
 3. >サーバー名：くろまるサーバー(自由に設定可能)  
-   >サーバーアドレス：kuromaru.ml  
+   >サーバーアドレス：kuromaru.world  
    >ポート：入力しない(19132)
 
    と入力して、「完了」を選択します。
@@ -85,7 +85,7 @@ sidebar_position: 3
 
 3. 「Server list」が表示されます。
     「Connect to a Server」を選択し、
-   >Server Address: kuromaru.ml  
+   >Server Address: kuromaru.world  
    >Server Port: 19132  
    >Display Name on Server List: (入力しない)  
    >Add to Server List: オンにする
