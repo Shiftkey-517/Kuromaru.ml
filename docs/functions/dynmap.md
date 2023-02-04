@@ -8,4 +8,4 @@ Web ブラウザー上で、このサーバー上のワールドマップを見�
 
 ## URL
 
-http://kuromaru.ml:8123
+http://kuromaru.world:8123

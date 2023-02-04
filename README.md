@@ -1,4 +1,4 @@
-# www.kuromaru.ml
+# www.kuromaru.world
 
 くろまるサーバーの公式ホームページ。
 
